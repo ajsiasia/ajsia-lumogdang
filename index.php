@@ -1,3 +1,3 @@
 <?php
-	<a href="login.php"</a>
+	  include ("login.php");	
 ?>
